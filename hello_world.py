@@ -1,0 +1,17 @@
+#1-dars
+#mavzu-print buyrug'i
+print("hello world")
+print(2*2)
+print(4*9-45+78)
+print("hello Asliddin")
+print('salom')
+print(7*7845-15)
+print(12*13/10)
+print(15*9+12)
+print(4778*8+125-45)
+print(99999999999*15-477777778799)
+print(78999999456*124587777446/2457*77777777777+125)
+print("hi ")
+print(155555555555555555)
+print("alisher" "14")
+print("Alisher 2011-yil tug'ilgan 20-iyulda ")
